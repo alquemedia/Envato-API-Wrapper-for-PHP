@@ -1,10 +1,9 @@
 <?php namespace Alquemedia_Envato_PHP_Wrapper\Envato;
+use Alquemedia_Envato_PHP_Wrapper\Utilities\Array_Object;
 
 /**
  * Class Envato_Search_Parameters
- * @package Code_Alchemy\APIs\Envato
- *
- * Envato Search Parameters
+ * @package Alquemedia_Envato_PHP_Wrapper\Envato
  */
 class Envato_Search_Parameters extends Array_Object{
 
